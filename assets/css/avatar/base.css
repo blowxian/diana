@@ -1,0 +1,14 @@
+.avatar-generator {
+	margin-top: 15px;
+}
+.avatar-placeholder {
+	width: 100%;
+	background: #ddd;
+	border-radius: 5px;
+	text-align: center;
+	font-size: 3em;
+	color: #fff;
+}
+.avatar-uploader {
+	margin-top: 1em;
+}
